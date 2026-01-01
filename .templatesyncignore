@@ -1,0 +1,14 @@
+# Files and directories to exclude when syncing from template repository
+# Follows .gitignore syntax
+
+# Preserve ignore rules
+.gitignore
+
+# Preserve readme
+README.md
+
+# Preserve Copilot instructions
+.github/copilot-instructions.md
+
+# Preserve VS Code settings
+.vscode
